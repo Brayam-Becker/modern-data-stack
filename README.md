@@ -9,11 +9,11 @@ Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker
 
 Setar as Permissoes do Gitpod ao Repositorio no Github 
 
-Subir o Airbyte via docker 
+Subir o Airbyte via docker X
 
-Subir o Airflow via docker 
+Subir o Airflow via docker X
 
-Subir o Metabase via docker 
+Subir o Metabase via docker X
 
 Criar o script de execução ?
 
